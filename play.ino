@@ -1,7 +1,7 @@
 /*
  * Play example using Time3 library.
  *
- * The sample must be raw 8bits 8KHz, please read README.MD.
+ * The sample must be raw 8bits 8KHz, please read README.md.
  *
  * References:
  *
