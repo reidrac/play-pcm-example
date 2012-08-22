@@ -32,5 +32,5 @@ References
  - http://arduino.cc/playground/Code/Timer1
  - http://www.pjrc.com/teensy/td_libs_TimerOne.html
 
-Juan J. Martínez <jjM@usebox.net>
+Juan J. Martínez <jjm@usebox.net>
 
