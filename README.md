@@ -13,7 +13,7 @@ There are other examples/ways of doing this, most notably:
 But I couldn't make it work in Arduino Leonardo or Teensy 2.0, both
 based on ATmega32u4.
 
-After reading the docs pointed in the 'refrences' section of this
+After reading the docs pointed in the 'references' section of this
 document, I found out that the same can be achieved using the Timer3
 library.
 
