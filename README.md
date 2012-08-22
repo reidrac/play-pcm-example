@@ -30,7 +30,7 @@ References
 ----------
 
  - http://arduino.cc/en/Tutorial/SecretsOfArduinoPWM
- - http://www.arduino.cc/playground/Main/TimerPWMCheatsheet
+ - http://arduino.cc/playground/Main/TimerPWMCheatsheet
  - http://arduino.cc/playground/Code/Timer1
  - http://www.pjrc.com/teensy/td_libs_TimerOne.html
 
