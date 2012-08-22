@@ -24,6 +24,8 @@ The sample can be genereated with raw2c.c tool:
 
 The code has been tested with Teensy 2.0 only.
 
+Demo: https://plus.google.com/104932008385650668491/posts/BE91htfJ1R9
+
 References
 ----------
 
