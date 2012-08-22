@@ -3,13 +3,6 @@
  *
  * The sample must be raw 8bits 8KHz, please read README.md.
  *
- * References:
- *
- *  - http://arduino.cc/en/Tutorial/SecretsOfArduinoPWM
- *  - http://www.arduino.cc/playground/Main/TimerPWMCheatsheet
- *  - http://arduino.cc/playground/Code/Timer1
- *  - http://www.pjrc.com/teensy/td_libs_TimerOne.html
- *
  *  Juan J. Martinez <jjm@usebox.net>
  *  https://github.com/reidrac/play-pcm-example
  */
