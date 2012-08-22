@@ -26,7 +26,7 @@ void init_play(unsigned char pin)
 
   pinMode(play_pin, OUTPUT);
 
-  // 8KHz are 125 microsencodns
+  // 8KHz are 125 microsenconds
   Timer3.initialize(125);
   Timer3.attachInterrupt(play_cb);
   Timer3.pwm(pin, HIGH);
