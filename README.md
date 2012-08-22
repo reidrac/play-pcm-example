@@ -1,4 +1,5 @@
-= Playing PCM audio using Timer3 =
+Playing PCM audio using Timer3
+==============================
 
 This is an example on how to play a raw 8bits 8KHz PCM audio sample
 using one of the ATmega32u4 PWM pins and the Timer3 library:
@@ -23,7 +24,8 @@ The sample can be genereated with raw2c.c tool:
 
 The code has been tested with Teensy 2.0 only.
 
-== References ==
+References
+----------
 
  - http://arduino.cc/en/Tutorial/SecretsOfArduinoPWM
  - http://www.arduino.cc/playground/Main/TimerPWMCheatsheet
