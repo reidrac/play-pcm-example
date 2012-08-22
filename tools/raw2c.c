@@ -1,3 +1,9 @@
+/*
+ * Convert a RAW 8bits 8KHz sample in a C include.
+ *
+ *  Juan J. Martinez <jjm@usebox.net>
+ *  https://github.com/reidrac/play-pcm-example
+ */
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -48,7 +54,7 @@ main(int argc, char **argv)
        fprintf(fd_out, "0x%x", byt);
        length++;
        if(!feof(fd_in))
-        fprintf(fd_out, ", ");
+          fprintf(fd_out, ", ");
     }
 
     fprintf(fd_out, " };\n");
