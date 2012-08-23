@@ -1,5 +1,5 @@
 /*
- * Convert a RAW 8bits 8KHz sample in a C include.
+ * Convert a RAW 8bits 8KHz sample to C include.
  *
  *  Juan J. Martinez <jjm@usebox.net>
  *  https://github.com/reidrac/play-pcm-example
